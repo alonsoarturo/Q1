@@ -8,7 +8,8 @@ public class Q1 {
 	}
 		
 	public static void main(String[] args) {
-		int x = 2;
-		System.out.println(x);
+		
+		System.out.println("Can you access a protected variable from the main class?");
+		//Answer: No! 
 	}
 }
